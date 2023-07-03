@@ -2,8 +2,6 @@ import React from "react";
 import * as S from "./styles";
 
 import Flamengo from "../../assets/image/3.png";
-import PontoPreta from "../../assets/image/2.png";
-import Fluminence from "../../assets/image/1.png";
 
 export function Cards() {
   return (
